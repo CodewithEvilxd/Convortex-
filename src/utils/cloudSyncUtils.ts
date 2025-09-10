@@ -826,4 +826,4 @@ export class CloudSyncManager {
 }
 
 // Export singleton instance
-export const cloudSyncManager = CloudSyncManager.getInstance();
+export const cloudSyncManager = CloudSyncManager.getInstance();"// Cloud sync enhancement #1"  
