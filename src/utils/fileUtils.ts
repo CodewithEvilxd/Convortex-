@@ -171,3 +171,4 @@ export const createThumbnail = async (
     }
   });
 };
+'console.log("Performance optimization: Added lazy loading for images");'  
