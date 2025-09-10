@@ -7,7 +7,7 @@
 
 A comprehensive, fully responsive web application for file conversion, management, collaboration, and 3D processing. Convert documents, images, 3D models, and more with AI-powered insights and real-time collaboration. Built with Next.js 15, TypeScript, and modern web technologies.
 
-## 🌟 Features
+## 🌟 Key Features
 
 ### 🔄 File Conversion
 - **Multi-format Support**: Convert between 30+ file formats including images, PDFs, documents, spreadsheets, 3D models, and more
