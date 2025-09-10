@@ -826,48 +826,4 @@ export class CloudSyncManager {
 }
 
 // Export singleton instance
-export const cloudSyncManager = CloudSyncManager.getInstance();"// Cloud sync enhancement #1"  
-// Cloud sync enhancement #2
-// Cloud sync enhancement #3
-// Cloud sync enhancement #4
-// Cloud sync enhancement #5
-// Cloud sync enhancement #6
-// Cloud sync enhancement #7
-// Cloud sync enhancement #8
-// Cloud sync enhancement #9
-// Cloud sync enhancement #10
-// Cloud sync enhancement #11
-// Cloud sync enhancement #12
-// Cloud sync enhancement #13
-// Cloud sync enhancement #14
-// Cloud sync enhancement #15
-// Cloud sync enhancement #16
-// Cloud sync enhancement #17
-// Cloud sync enhancement #18
-// Cloud sync enhancement #19
-// Cloud sync enhancement #20
-// Cloud sync enhancement #21
-// Cloud sync enhancement #22
-// Cloud sync enhancement #23
-// Cloud sync enhancement #24
-// Cloud sync enhancement #25
-// Cloud sync enhancement #26
-// Cloud sync enhancement #27
-// Cloud sync enhancement #28
-// Cloud sync enhancement #29
-// Cloud sync enhancement #30
-// Cloud sync enhancement #31
-// Cloud sync enhancement #32
-// Cloud sync enhancement #33
-// Cloud sync enhancement #34
-// Cloud sync enhancement #35
-// Cloud sync enhancement #36
-// Cloud sync enhancement #37
-// Cloud sync enhancement #38
-// Cloud sync enhancement #39
-// Cloud sync enhancement #40
-// Cloud sync enhancement #41
-// Cloud sync enhancement #42
-// Cloud sync enhancement #43
-// Cloud sync enhancement #44
-// Cloud sync enhancement #45
+export const cloudSyncManager = CloudSyncManager.getInstance();

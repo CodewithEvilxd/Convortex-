@@ -148,4 +148,3 @@ const Header: React.FC<HeaderProps> = ({ onProfileClick }) => {
 };
 
 export default Header;
-"// UI enhancement #1"  

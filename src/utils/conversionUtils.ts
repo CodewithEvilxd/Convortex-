@@ -762,7 +762,7 @@ export const compressPDF = async (
 ): Promise<string> => {
   const {
     quality = 0.8, // eslint-disable-line @typescript-eslint/no-unused-vars
-    removeUnusedObjects = true, // eslint-disable-line @typescript-eslint/no-unused-vars
+    removeUnusedObjects = true,
     optimizeFonts = true, // eslint-disable-line @typescript-eslint/no-unused-vars
     compressImages = true // eslint-disable-line @typescript-eslint/no-unused-vars
   } = options;
@@ -2326,4 +2326,4 @@ export const summarizePDFToShortPDF = async (pdfBase64: string): Promise<string>
       resolve(`data:application/pdf;base64,${btoa('Mock summarized PDF')}`);
     }, 2500);
   });
-};"// Performance optimization #1"  
+};
